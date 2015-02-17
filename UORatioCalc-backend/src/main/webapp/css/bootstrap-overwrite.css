@@ -1,0 +1,22 @@
+.blufor{
+background-image: linear-gradient(to bottom, #004c99 0%, #003d7a 100%) !important;
+
+}
+.redfor{
+background-image: linear-gradient(to bottom, #800000 0%, #650000 100%) !important;
+
+}
+.indy{
+background-image: linear-gradient(to bottom, #008000 0%, #005c00 100%) !important;
+
+}
+.civ{
+background-image: linear-gradient(to bottom, #660080 0%, #48005a 100%) !important;
+
+}
+.empty{
+background-image: linear-gradient(to bottom, #b29900 0%, #8d7900 100%) !important;
+
+}
+
+

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<web-app xmlns="http://java.sun.com/xml/ns/javaee" version="2.5">
+    <servlet>
+        <servlet-name>calculate</servlet-name>
+        <servlet-class>com.VyMajoris.unitedOperations.ratioCalculator.RatioCalculator</servlet-class>
+
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>calculate</servlet-name>
+        <url-pattern>/calculate</url-pattern>
+    </servlet-mapping>
+    <welcome-file-list>
+        <welcome-file>ratiocalculator.jsp</welcome-file>
+    </welcome-file-list>
+    <session-config>
+        <session-timeout>20</session-timeout>
+    </session-config>
+</web-app>
