@@ -1,2 +1,2 @@
 # UORatioCalculator
-vymajoris-unitedoperations.appspot.com
+http://wwww.vymajoris-unitedoperations.appspot.com
